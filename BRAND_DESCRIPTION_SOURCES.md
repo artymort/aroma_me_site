@@ -1,0 +1,97 @@
+# Sources for brand introductions
+
+The short introductions on brand catalog pages are editorial summaries, not
+copied text. Dates, founders, origins, and brand concepts were checked against
+the brand or its parent company's own material. Text without a historical claim
+describes the brand's current fragrance collections. Product examples come from
+the local perfume catalog. Last reviewed: 2026-10-14.
+
+- Acqua di Parma: https://www.lvmh.com/en/our-maisons/perfumes-cosmetics/acqua-di-parma
+- Afnan: https://us.afnan.com/pages/about-us
+- Al Haramain Perfumes: https://ahp.alharamainperfumes.com/about-us/
+- Amouage: https://amouage.com/pages/our-story
+- Ariana Grande: https://arianagrandefragrances.com/collections/lovenotes
+- Armaf: https://armaf.com/pages/about-us
+- Azzaro: https://www.loreal.com/en/luxe-division/azzaro/
+- Bath & Body Works: https://www.bbwinc.com/about-us/personal-care-home-fragrance
+- BDK Parfums: https://bdkparfums.com/en/pages/maison-bdk
+- Bond No 9: https://www.bondno9.com/no-jp/pages/philosophy
+- BORNTOSTANDOUT: https://borntostandout.com/pages/founder-message
+- Burberry: https://int.burberry.com/c/burberry-world/heritage/our-story/
+- Bvlgari: https://www.bulgari.com/en-us/fragrances-trasparency-journey
+- Byredo: https://www.byredo.com/se_en/about
+- Calvin Klein: https://www.calvinklein.us/en/about-us.html
+- Carolina Herrera: https://www.carolinaherrera.com/us/en/editorial/thebrandstorypage
+- Chanel: https://www.chanel.com/gb/about-chanel/the-house-of-chanel/1920/
+- Chloé: https://www.chloe.com/experience/us/history-post/2001/
+- Clive Christian: https://www.clivechristian.com/pages/about
+- Comme des Garcons: https://www.comme-des-garcons.org/history/
+- Creed: https://www.creedfragrance.com/c/the-house-of-creed/our-heritage/
+- d'Annam: https://dannam.co/en-eu/pages/about
+- Demeter Fragrance: https://demeterfragrance.com/pages/about-us
+- Dior: https://www.dior.com/en_id/beauty/storepage-folder/about-dior.html
+- Diptyque: https://customerservice.diptyqueparis.com/hc/en-us/articles/38446501663639-What-is-the-history-of-Diptyque
+- Elizabeth Arden: https://www.elizabetharden.com/pages/about-us
+- Essential Parfums: https://www.essentialparfums.com/pages/notre-histoire
+- Etat Libre d'Orange: https://www.etatlibredorange.com/pages/20-years-of-orange
+- Ex Nihilo: https://us.ex-nihilo-paris.com/la-maison
+- Filippo Sorcinelli: https://filipposorcinelli.com/en/pages/about-us
+- Fragrance World: https://fragranceworld.ae/about-us/
+- French Avenue: https://sa.frenchavenue.com/pages/about-us
+- Giardini Di Toscana: https://www.giardiniditoscana.com/en/pages/company-profile
+- Givenchy: https://www.lvmh.com/our-maisons/perfumes-cosmetics/givenchy-parfums
+- Goldfield & Banks Australia: https://www.goldfieldandbanks.com/pages/the-house
+- Granado: https://www.granado.eu/en/
+- Gucci: https://www.gucci.com/us/en/st/stories/article/the-alchemist-garden-1921-shoppable
+- Guerlain: https://www.guerlain.com/uk/en-uk/c/history.html
+- Imaginary Authors: https://imaginaryauthors.com/
+- Issey Miyake: https://us.isseymiyake.com/pages/parfums
+- Jo Malone London: https://www.jomalone.com/scent-pairing
+- Juliette Has A Gun: https://www.juliettehasagun.com/en/pages/marque-page
+- Kayali Fragrances: https://kayali.com/en-eu/pages/about
+- Kenzo: https://www.lvmh.com/en/our-maisons/perfumes-cosmetics/kenzo-parfums
+- Khadlaj Perfumes: https://khadlaj-perfumes.com/pages/about-new
+- Lalique: https://press.lalique.com/history-of-lalique
+- Lattafa Perfumes: https://lattafa.com/about-us/
+- Les Liquides Imaginaires: https://www.liquidesimaginaires.com/pages/about
+- Loewe: https://www.perfumesloewe.com/int/en_DE/about-us.html
+- Lorenzo Pazzaglia: https://www.lorenzopazzaglia.com/en/brand/
+- Louis Vuitton: https://us.louisvuitton.com/eng-us/magazine/articles/heritage
+- Lush: https://www.lush.com/us/en_us/a/ethical-buying
+- Maison Alhambra: https://maisonsalhambra.com/about/
+- Maison Crivelli: https://maisoncrivelli.com/en-ch/pages/philosophie
+- Maison Francis Kurkdjian: https://www.franciskurkdjian.com/us-en/the-maison/PDTM00.html
+- Maison Martin Margiela: https://www.maisonmargiela-fragrances.eu/en_GB/about-the-brand/about-the-brand.html
+- Mancera: https://www.manceraparfums.com/esp/en/the-mancera-house
+- Marc Jacobs: https://www.marcjacobs.com/ca-en/about-marc.html
+- Marc-Antoine Barrois: https://marcantoinebarrois.com/en/pages/lhistoire
+- Matiere Premiere: https://matiere-premiere.com/en
+- Memo Paris: https://www.memoparis.com/pages/faq
+- Mind Games: https://www.mindgamesfragrance.com/pages/about
+- Montale: https://www.montaleparfums.com/en/montale-history
+- Montblanc: https://www.montblanc.com/en-gb/discover/company/about-us.html
+- Mugler: https://www.mugler.com/
+- Narciso Rodriguez: https://www.narcisorodriguezparfums.com/en/designer.html
+- Nasomatto: https://nasomatto.com/
+- Natura: https://www.natura.com.br/a-natura-nossa-historia
+- Nishane: https://nishane.com/about/
+- O Boticario: https://www.boticario.com/pages/our-story
+- Orto Parisi: https://ortoparisi.com/shop/biography
+- Parfums de Marly: https://parfums-de-marly.com/pages/the-maison-our-story
+- PARIS CORNER: https://www.pariscornerperfumes.com/pages/about-us
+- Penhaligon's: https://www.penhaligons.com/us/en/our-founder
+- Phlur: https://phlur.com/pages/frequently-asked-questions
+- Prada: https://www.loreal.com/en/luxe-division/prada/
+- Rabanne: https://www.rabanne.com/ww/en/the-rabanne-edition/article/fragrance/from-calandre-to-la-collection
+- Ralph Lauren: https://www.ralphlaurenfragrances.com/en_US/world-of-rl.html
+- Rasasi: https://rasasistore.com/pages/about-us
+- Roja Dove: https://rojadoveperfumery.com/pages/roja-dove
+- Serge Lutens: https://sergelutens.com/
+- Sol de Janeiro: https://soldejaneiro.com/pages/our-story/
+- Sospiro Perfumes: https://sospirointernational.com/pages/about-sospiro
+- Swiss Arabian: https://fr.swissarabian.com/blogs/news/a-guide-to-the-history-and-future-of-swiss-arabian
+- Tiziana Terenzi: https://tizianaterenzi.com/en/
+- Tom Ford: https://www.tomfordbeauty.com/collections/private-blend
+- Valentino: https://www.valentino-beauty.com/en_GB/about-us/about-us.html
+- Van Cleef & Arpels: https://www.vancleefarpels.com/kw/en/the-maison/timeline.html
+- Victoria's Secret: https://www.victoriassecret.com/us/vs/about-us

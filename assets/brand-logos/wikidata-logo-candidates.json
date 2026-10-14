@@ -1,0 +1,197 @@
+[
+  {
+    "name": "Ariana Grande",
+    "entity": "Q151892",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/AG-2020%20x150.png"
+  },
+  {
+    "name": "Azzaro",
+    "entity": "Q13034147",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Azzaro.png"
+  },
+  {
+    "name": "Bath & Body Works",
+    "entity": "Q810773",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bath%20%26%20Body%20Works%20logo.svg"
+  },
+  {
+    "name": "Burberry",
+    "entity": "Q390107",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Burberry%2004.svg"
+  },
+  {
+    "name": "Burberry",
+    "entity": "Q125053202",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Burberry%20Logo.svg"
+  },
+  {
+    "name": "Calvin Klein",
+    "entity": "Q1068628",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Calvin%20klein%20logo%20web23.svg"
+  },
+  {
+    "name": "Carolina Herrera",
+    "entity": "Q264589",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Carolina%20Herrera%20logo.svg"
+  },
+  {
+    "name": "Carolina Herrera",
+    "entity": "Q29017366",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Carolina%20Herrera%20logo.svg"
+  },
+  {
+    "name": "Chanel",
+    "entity": "Q218115",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Chanel%20logo.svg"
+  },
+  {
+    "name": "Creed",
+    "entity": "Q308816",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Creed%20logo.svg"
+  },
+  {
+    "name": "Creed",
+    "entity": "Q1139471",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Creed%20Fragrances%20logo.svg"
+  },
+  {
+    "name": "Giorgio Armani",
+    "entity": "Q635484",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgio%20Armani.svg"
+  },
+  {
+    "name": "Givenchy",
+    "entity": "Q759210",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Givenchy%20-%20wordmark%20%28France%2C%202003%29.svg"
+  },
+  {
+    "name": "Granado",
+    "entity": "Q9698089",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Logotipo%20da%20Granado%20Pharm%C3%A1cias.svg"
+  },
+  {
+    "name": "Gucci",
+    "entity": "Q178516",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/1960s%20Gucci%20Logo.svg"
+  },
+  {
+    "name": "Guerlain",
+    "entity": "Q1553251",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Guerlain%20-%20logo%20%28France%2C%202022-%29.svg"
+  },
+  {
+    "name": "Hugo Boss",
+    "entity": "Q491627",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hugo%20Boss%20logo%202021.svg"
+  },
+  {
+    "name": "Hugo Boss",
+    "entity": "Q491627",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hugo%20Boss%20logo%202021.svg"
+  },
+  {
+    "name": "Hugo Boss",
+    "entity": "Q491627",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hugo%20Boss%20logo%202021.svg"
+  },
+  {
+    "name": "Jo Malone London",
+    "entity": "Q20724743",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/JoMalone%20Logo.jpg"
+  },
+  {
+    "name": "Jo Malone London",
+    "entity": "Q20724743",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/JoMalone%20Logo.jpg"
+  },
+  {
+    "name": "Kenzo",
+    "entity": "Q895795",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenzo%20logo%20%282022%E2%80%93present%29.svg"
+  },
+  {
+    "name": "L'Artisan Parfumeur",
+    "entity": "Q6455604",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/L%27Artisan%20Parfumeur%20logo.jpg"
+  },
+  {
+    "name": "Lalique",
+    "entity": "Q2406369",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lalique-Group%20Logo%20300dpi.png"
+  },
+  {
+    "name": "Loewe",
+    "entity": "Q966905",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Loewe%20logo.svg"
+  },
+  {
+    "name": "Louis Vuitton",
+    "entity": "Q191485",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20Vuitton%20logo.svg"
+  },
+  {
+    "name": "Lush",
+    "entity": "Q1585448",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lush%20Logo.png"
+  },
+  {
+    "name": "Montblanc",
+    "entity": "Q124980994",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Montblanc%20logo.svg"
+  },
+  {
+    "name": "Moschino",
+    "entity": "Q659863",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Moschino%20logo.svg"
+  },
+  {
+    "name": "Natura",
+    "entity": "Q6038747",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Natura%20Actual.png"
+  },
+  {
+    "name": "Natura",
+    "entity": "Q123564924",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Natura-store-logo.png"
+  },
+  {
+    "name": "Penhaligon's",
+    "entity": "Q3374732",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Penhaligon%27s%20logo.svg"
+  },
+  {
+    "name": "Prada",
+    "entity": "Q193136",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Prada-Logo.svg"
+  },
+  {
+    "name": "Prada",
+    "entity": "Q125097123",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Prada-Logo.svg"
+  },
+  {
+    "name": "Rabanne",
+    "entity": "Q129676852",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabanne%20logo.svg"
+  },
+  {
+    "name": "Tom Ford",
+    "entity": "Q105476592",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Ford%20Logo.svg"
+  },
+  {
+    "name": "Valentino",
+    "entity": "Q649646",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Valentino%20logo.svg"
+  },
+  {
+    "name": "Valentino",
+    "entity": "Q121189518",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Valentino%20%28restaurant%29%20logo.jpeg"
+  },
+  {
+    "name": "Versace",
+    "entity": "Q696376",
+    "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Versace%20old%20logo.svg"
+  }
+]

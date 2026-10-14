@@ -1,0 +1,45 @@
+/* Approved fourth concept, scoped to the mobile homepage. */
+.home-mobile { display:none }
+@media(max-width:760px) {
+ body[data-page="index"] #main > :not(.home-mobile) { display:none }
+ .home-mobile { display:block }
+ .home-mobile h1 { --heading-size: 34px; font-size: calc(var(--heading-size) * var(--heading-scale)); line-height:1.04; letter-spacing:-.02em }
+ .home-mobile h1 span { color:var(--cherry) }
+ .home-mobile h2 { --heading-size: 25px; font-size: calc(var(--heading-size) * var(--heading-scale)); line-height:1.1 }
+ .home-mobile h3 { --heading-size: 20px; font-size: calc(var(--heading-size) * var(--heading-scale)); line-height:1.1 }
+ .home-mobile p { font-size:14px; line-height:1.55 }
+ .home-mobile-intro { padding-top:18px; margin-bottom:16px }
+ .home-mobile-intro p { margin-top:14px; color:var(--muted) }
+ .home-mobile-search { margin-bottom:22px }
+ .home-mobile .search-form { height:52px; padding-left:16px; gap:10px }
+ .home-mobile .search-form input { font-size:14px }
+ .home-mobile .search-submit { width:40px; height:40px }
+ .home-mobile .search-suggestions { top:58px }
+ .home-pair { border-bottom:1px solid var(--line); padding-bottom:22px }
+ .home-pair > a > img { width:100%; height:190px; object-fit:cover; border-radius:6px }
+ .home-pair-meta { font-size:11px; color:var(--muted); margin:12px 0 8px; display:flex; justify-content:space-between }
+ .home-pair h2 { --heading-size: 28px; font-size: calc(var(--heading-size) * var(--heading-scale)); margin-top:12px }
+ .home-pair p { margin-top:12px; color:var(--muted); font-size:13px }
+ .home-pair .home-pair-names { color:var(--cherry); font-size:12px; margin-top:10px }
+ .home-pair .button { min-height:44px; padding:10px 16px; font-size:13px; margin-top:18px; width:100%; justify-content:space-between }
+ .home-mobile-section { margin-top:32px }
+ .home-mobile-heading { display:flex; justify-content:space-between; gap:12px; align-items:baseline; margin-bottom:18px }
+ .home-mobile-heading h2 { --heading-size: 25px ; font-size: calc(var(--heading-size) * var(--heading-scale))}
+ .home-mobile-heading a { color:var(--cherry); font-size:12px; white-space:nowrap }
+ .home-actions { border-top:1px solid var(--line) }
+ .home-action { display:grid; grid-template-columns:42px 1fr 18px; gap:12px; align-items:center; padding:18px 0; border-bottom:1px solid var(--line); min-height:91px }
+ .home-action > .icon { width:18px; height:18px; color:var(--cherry) }
+ .home-action-symbol { width:42px; height:42px; display:grid; place-items:center; background:#f6edef; border-radius:50%; color:var(--cherry) }
+ .home-action h2 { --heading-size: 22px ; font-size: calc(var(--heading-size) * var(--heading-scale))}
+ .home-action p { font-size:12px; margin-top:6px; color:var(--muted) }
+ .home-reading { display:grid; gap:20px }
+ .home-reading a { display:grid; grid-template-columns:86px 1fr; gap:15px; align-items:center }
+ .home-reading img { width:86px; height:86px; border-radius:5px; object-fit:cover }
+ .home-reading h3 { --heading-size: 20px ; font-size: calc(var(--heading-size) * var(--heading-scale))}
+ .home-reading p { font-size:11px; margin-top:8px; color:var(--muted) }
+ body[data-page="index"] .compare-dock { display:none }
+ body[data-page="index"] .footer { margin-top:40px; padding-top:24px }
+ body[data-page="index"] .footer-top { flex-direction:column; align-items:flex-start; gap:22px }
+ body[data-page="index"] .footer-top nav { display:flex; flex-wrap:wrap; gap:12px 18px; font-size:12px }
+ body[data-page="index"] .footer-bottom { flex-direction:column; gap:8px; font-size:10px }
+}

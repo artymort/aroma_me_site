@@ -1,0 +1,17 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "path": "D:/Папа/Проекты Python и сайты/aroma_me_site/assets/scent-journal/gateway-compare-v1.png",
+      "prompt": "Use case: product-mockup. Asset type: photographic background for an aroma:me website navigation card 'Compare perfumes', no typography. Create a single landscape editorial still life, 3:2 aspect ratio. Two distinct unbranded transparent perfume bottles side by side, one rounded and one rectangular, with subtly different pale amber liquids, positioned entirely in the RIGHT 52% of the frame; clearly two fragrances to compare. Deep black-cherry burgundy matte studio wall and surface (#681E36 with deeper #390E22 shadows), restrained soft rose reflected highlights. Clean quiet dark LEFT 48% with absolutely no objects so white heading and description can overlay. Photorealistic glass thickness, beautiful controlled reflections, soft directional light, tactile matte backdrop. Match a modern minimalist perfume editorial brand, not ostentatious luxury. No text, logos, labels, watermarks, frame, UI or graphic icons. Composition must still work in a tall mobile crop with bottles toward right center, not clipped at bottom."
+    },
+    {
+      "path": "D:/Папа/Проекты Python и сайты/aroma_me_site/assets/scent-journal/gateway-selection-v1.png",
+      "prompt": "Use case: product-mockup. Asset type: photographic background for an aroma:me website navigation card 'Find a perfume', no typography. Single landscape editorial still life, 3:2 aspect ratio. One beautiful unbranded rectangular clear perfume bottle containing warm pale amber perfume, glossy black spherical cap, with a small restrained burgundy botanical branch, grouped in the RIGHT 45% of frame. Tonal deep burgundy studio wall and surface, black cherry #681E36 and #52162B shadows, faint muted dusty rose highlight at far right. Clean dark negative space across LEFT 55% for white overlay heading and description. Photorealistic glass, natural reflections, fine tactile surface, soft light, contemporary minimalist fragrance editorial photography. No words, labels, logos, watermark, frame, borders, UI. Keep object fully readable in landscape website card and narrower tall mobile crop."
+    },
+    {
+      "path": "D:/Папа/Проекты Python и сайты/aroma_me_site/assets/scent-journal/gateway-notes-v1.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: photographic background for an aroma:me website navigation card 'Explore notes', no typography. Single landscape 3:2 editorial macro still life of a pale blush rose blossom with delicate sculptural petals and a minimal green leaf, arranged in RIGHT 48% of the frame and partially cropped at right edge. Warm white and very pale ivory studio background (#F7F5F3), airy almost-white neutral left area with no objects, matching a light perfume glass photography card. Soft diffuse studio daylight, subtle believable shadows, exquisite tactile petal texture, contemporary minimalist perfume editorial photography. LEFT 52% should be quiet and very light for black overlay heading and description. No perfume bottle, text, labels, logos, watermarks, borders or UI. Do not turn whole background pink: must stay warm white."
+    }
+  ]
+}

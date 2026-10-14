@@ -1,0 +1,199 @@
+[
+  {
+    "name": "Britney Spears",
+    "site": "https://britneyspearsfragrances.com/",
+    "candidates": [],
+    "error": "curl: (6) Could not resolve host: britneyspearsfragrances.com"
+  },
+  {
+    "name": "Imaginary Authors",
+    "site": "https://imaginaryauthors.com/",
+    "candidates": [],
+    "rasterCandidates": [
+      {
+        "url": "https://imaginaryauthors.com/cdn/shop/files/IMP_LOGO.png?v=1790745286&width=320",
+        "score": 11
+      },
+      {
+        "url": "https://imaginaryauthors.com/cdn/shop/files/IA_Logo_8b6def33-a006-459f-a325-9eb8b110394c.png?v=1715675042&width=320",
+        "score": -2
+      }
+    ],
+    "inlineLogos": [],
+    "bytes": 666292
+  },
+  {
+    "name": "Elizabeth Arden",
+    "site": "https://www.elizabetharden.com/",
+    "candidates": [
+      {
+        "url": "https://www.elizabetharden.com/cdn/shop/files/Elizabeth_Arden_Logo_2025.svg?v=1737047469&width=230",
+        "score": 7
+      },
+      {
+        "url": "https://www.elizabetharden.com/cdn/shop/files/Elizabeth_Arden_Logo_2025.svg?v=1737047469&width=320",
+        "score": 7
+      },
+      {
+        "url": "https://www.elizabetharden.com/cdn/shop/files/Elizabeth_Arden_Logo_2025.svg?v=1737047469&width=230 230w",
+        "score": 1
+      },
+      {
+        "url": "https://www.elizabetharden.com/cdn/shop/files/Elizabeth_Arden_Logo_2025.svg?v=1737047469&width=160 160w, //www.elizabetharden.com/cdn/shop/files/Elizabeth_Arden_Logo_2025.svg?v=1737047469&width=320 320w",
+        "score": 1
+      }
+    ],
+    "rasterCandidates": [],
+    "inlineLogos": [],
+    "bytes": 807643
+  },
+  {
+    "name": "Fragrance World",
+    "site": "https://fragranceworld.ae/",
+    "candidates": [],
+    "rasterCandidates": [],
+    "inlineLogos": [],
+    "bytes": 82042
+  },
+  {
+    "name": "Ex Nihilo",
+    "site": "https://www.ex-nihilo-paris.com/",
+    "candidates": [],
+    "rasterCandidates": [],
+    "inlineLogos": [],
+    "bytes": 244780
+  },
+  {
+    "name": "Lush",
+    "site": "https://www.lush.com/",
+    "candidates": [],
+    "rasterCandidates": [],
+    "inlineLogos": [],
+    "bytes": 5374
+  },
+  {
+    "name": "Kayali Fragrances",
+    "site": "https://kayali.com/en-eu",
+    "candidates": [
+      {
+        "url": "https://kayali.com/cdn/shop/files/logo_svg.svg?v=1744276018&width=165 165w,//kayali.com/cdn/shop/files/logo_svg.svg?v=1744276018&width=330 330w,//kayali.com/cdn/shop/files/logo_svg.svg?v=1744276018&width=400 400w,//kayali.com/cdn/shop/files/logo_svg.svg?v=1744276018&width=535 535w,//kayali.com/cdn/shop/files/logo_svg.svg?v=1744276018&width=750 750w,//kayali.com/cdn/shop/files/logo_svg.svg?v=1744276018&width=1000 1000w,//kayali.com/cdn/shop/files/logo_svg.svg?v=1744276018&width=1500 1500w,//kayali.com/cdn/shop/files/logo_svg.svg?v=1744276018&width=1920 1920w,//kayali.com/cdn/shop/files/logo_svg.svg?v=1744276018&width=2000 2000w,//kayali.com/cdn/shop/files/logo_svg.svg?v=1744276018&width=3000 3000w",
+        "score": 1
+      }
+    ],
+    "rasterCandidates": [],
+    "inlineLogos": [],
+    "bytes": 366823
+  },
+  {
+    "name": "Maison Alhambra",
+    "site": "https://maisonalhambraperfume.com/",
+    "candidates": [],
+    "rasterCandidates": [
+      {
+        "url": "https://maisonalhambraperfume.com/wp-content/uploads/2025/01/cropped-473676545_609461084876488_11402663045625254_n.jpg",
+        "score": 9
+      }
+    ],
+    "inlineLogos": [],
+    "bytes": 257367
+  },
+  {
+    "name": "Maison Francis Kurkdjian",
+    "site": "https://www.franciskurkdjian.com",
+    "candidates": [],
+    "rasterCandidates": [],
+    "inlineLogos": [],
+    "bytes": 383
+  },
+  {
+    "name": "Mugler",
+    "site": "https://www.mugler.com/",
+    "candidates": [],
+    "rasterCandidates": [],
+    "inlineLogos": [],
+    "bytes": 5398
+  },
+  {
+    "name": "Mancera",
+    "site": "https://manceraparfums.com/en/",
+    "candidates": [],
+    "rasterCandidates": [
+      {
+        "url": "https://www.manceraparfums.com/themes/mancera/assets/img/logo/logo_mcr_header.png?v=0.01",
+        "score": 11
+      },
+      {
+        "url": "https://www.manceraparfums.com/themes/mancera/assets/img/logo/logo_mcr_footer.png",
+        "score": 6
+      }
+    ],
+    "inlineLogos": [],
+    "bytes": 160849
+  },
+  {
+    "name": "Mind Games",
+    "site": "https://www.mindgamesfragrance.com/",
+    "candidates": [],
+    "rasterCandidates": [
+      {
+        "url": "https://www.mindgamesfragrance.com/cdn/shop/files/logo-mind-games_20x_crop_center.png?v=1661293321",
+        "score": 2
+      }
+    ],
+    "inlineLogos": [
+      {
+        "context": "   ['header-logo'] ",
+        "markup": "<svg fill=\"none\" height=\"24\" viewbox=\"0 0 158 24\" width=\"158\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n<rect fill=\"url(#pattern0_66_3606)\" height=\"24\" width=\"158\"></rect>\n<defs>\n<pattern height=\"1\" id=\"pattern0_66_3606\" patterncontentunits=\"objectBoundingBox\" width=\"1\">\n<use transform=\"matrix(0.00413152 0 0 0.027027 -0.00817697 0)\" xlink:href=\"#image0_66_3606\"></use>\n</pattern>\n<image height=\"37\" id=\"image0_66_3606\" preserveaspectratio=\"none\" width=\"246\" xlink:href=\"data:image/png;base64,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\"/>\n</defs>\n</svg>"
+      }
+    ],
+    "bytes": 309311
+  },
+  {
+    "name": "Narciso Rodriguez",
+    "site": "https://www.narcisorodriguez.com/",
+    "candidates": [],
+    "rasterCandidates": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/570d2ff986db4332310121aa/1460483366926-0JNAAGZAWVYZLKGOEN91/logo-no-backgr.png?format=750w",
+        "score": 7
+      }
+    ],
+    "inlineLogos": [],
+    "bytes": 69717
+  },
+  {
+    "name": "Montale",
+    "site": "https://montaleparfums.com/",
+    "candidates": [],
+    "rasterCandidates": [],
+    "inlineLogos": [],
+    "bytes": 136938
+  },
+  {
+    "name": "Phlur",
+    "site": "https://phlur.com/",
+    "candidates": [],
+    "rasterCandidates": [],
+    "inlineLogos": [],
+    "bytes": 5346
+  },
+  {
+    "name": "Orto Parisi",
+    "site": "https://ortoparisi.com/",
+    "candidates": [],
+    "rasterCandidates": [
+      {
+        "url": "https://ortoparisi.com/cdn/shop/files/OrtoParisi-Enter.png?v=1719471791",
+        "score": 4
+      }
+    ],
+    "inlineLogos": [],
+    "bytes": 101277
+  },
+  {
+    "name": "O Boticário",
+    "site": "https://www.boticario.com.br/",
+    "candidates": [],
+    "error": "curl: (28) Operation timed out after 25007 milliseconds with 0 bytes received"
+  }
+]

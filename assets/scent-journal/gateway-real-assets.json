@@ -1,0 +1,31 @@
+{
+  "mode": "built-in image_gen",
+  "description": "AI-generated editorial compositions using existing real product photographs as references. Not official brand campaign photographs. Product identities preserved by reference, not pixel-exact photographic compositing.",
+  "unchanged": "Explore notes card, color direction, typography, card geometry, copy and navigation.",
+  "assets": [
+    {
+      "path": "assets/scent-journal/gateway-compare-real-v2.png",
+      "references": [
+        "Fragrant_image/Le Labo/Santal 33 Le Labo.jpg",
+        "Fragrant_image/Byredo/Bal d'Afrique Byredo.jpg",
+        "assets/scent-journal/gateway-compare-v1.png"
+      ],
+      "prompt": "Use case: compositing / product-mockup. Create ONE finished photorealistic editorial website card background, landscape 3:2. Input image 1 is the exact real Le Labo Santal 33 product reference; input image 2 is the exact real Byredo Bal d'Afrique product reference; image 3 is ONLY a color and lighting reference, do NOT copy its imaginary bottles. Place the two REAL bottles from images 1 and 2 together on the lower RIGHT half of a deep black-cherry burgundy matte studio tabletop, background #681E36, dark #390E22 corners with restrained warm rose reflected highlights. Preserve each original bottle faithfully: Santal tall cylindrical glass body, cylindrical brushed silver cap, cream printed laboratory label reading SANTAL 33 and LE LABO; Byredo broad short cylindrical glass, glossy black rounded dome cap, white label reading BYREDO / BAL D'AFRIQUE. Preserve original proportions, pale liquids, label placement and actual silhouettes. Both upright, front labels toward viewer, clearly distinct, harmonious scale (Santal somewhat taller), fine realistic contact shadows. Bottles occupy x=54-94%, y=37-88%; upper third and left half quiet clean burgundy negative space for website white text. Do not create any UI, headings, buttons or text beyond original product labels. No invented perfume packaging, extra bottles, branches, stones, wood, gold decoration, borders or watermarks. Sophisticated modern fragrance photography, tactile matte background, controlled studio light, recognizably real products, not generic AI bottle designs."
+    },
+    {
+      "path": "assets/scent-journal/gateway-selection-real-v2.png",
+      "references": [
+        "Fragrant_image/Maison Francis Kurkdjian/Baccarat Rouge 540 Maison Francis Kurkdjian.jpg",
+        "assets/scent-journal/gateway-compare-v1.png"
+      ],
+      "prompt": "Use case: compositing / product-mockup. Create ONE finished photorealistic background for aroma:me 'choose a fragrance' website card, landscape 3:2. Image 1 is the exact real Baccarat Rouge 540 Eau de Parfum bottle to preserve; image 2 ONLY specifies the existing burgundy card palette and tactile studio lighting, do NOT copy its bottles. One real Maison Francis Kurkdjian Baccarat Rouge 540 bottle stands on the lower RIGHT of a black-cherry burgundy studio tabletop and wall, #681E36 with deeper #52162B shadows, restrained pale rose highlight far right. Keep bottle authentic: clear thick square rectangular glass, pale amber liquid, tall square light gold cap and cylindrical gold neck, red rectangular label with thin gold border and original Maison Francis Kurkdjian Paris / Baccarat Rouge 540 lettering. Preserve proportions, materials, label layout and recognizable identity, no black spherical cap. Bottle fully visible at x=63-92%, y=33-90%. A single paper perfume blotter rests subtly near its base in the rightmost area, suggesting testing a scent. Left 55% and upper third completely clean dark burgundy negative space for white website heading and description; no objects or bright highlights there. Natural refraction and contact shadows, crisp restrained editorial beauty photography, same color family as reference. No UI, titles, buttons, watermarks, invented labels, extra products, flowers, stones, gold ornamental decor."
+    },
+    {
+      "path": "assets/scent-journal/gateway-journal-real-v2.png",
+      "references": [
+        "Fragrant_image/Byredo/Bal d'Afrique Byredo.jpg"
+      ],
+      "prompt": "Use case: compositing / photorealistic-natural. Create ONE finished landscape 3:2 editorial website background for a perfume news and stories journal. Input image 1 is an exact real Byredo Bal d'Afrique bottle reference: preserve its broad cylindrical clear glass, pale liquid, shiny black dome cap, white BYREDO / BAL D'AFRIQUE label. A tactile open contemporary perfume magazine, visible printed photographic editorial spread and fine columns of small non-legible typesetting, sits at an angle on the RIGHT lower side of a soft-black plum studio desk. Beside and partly behind the open magazine stands that exact Byredo bottle, and two slim ivory perfume blotters lie across the outer page. This is visibly an editorial reading scene, NOT an ingredient still life. Keep pages and bottle grouped x=57-100%, y=34-96%; right edge may crop the outer magazine corner but keep authentic bottle recognizable. Left 55% and upper third calm deep ink background #272329 with restrained black-cherry #390E22 light, so white heading and copy remain readable. Dark low-key studio lighting, quiet soft shadows, real paper grain, modest warm off-white pages, modern sophisticated beauty publication still life. No tree, wood trunk, branches, flowers, laptop, people, gold decorations, watermark, UI, fake large headlines or invented perfume bottle. Product label text only, magazine typography small and optically out of focus, one editorial perfume photograph on page."
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+[
+  {
+    "name": "Acqua di Parma",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Acqua+di+Parma%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Afnan",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Afnan%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Al Haramain Perfumes",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Al+Haramain+Perfumes%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Amouage",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Amouage%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Ariana Grande",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Ariana+Grande%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Armaf",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Armaf%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Azzaro",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Azzaro%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Bath & Body Works",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Bath+++Body+Works%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "BDK Parfums",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22BDK+Parfums%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Bond No 9",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Bond+No+9%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "BORNTOSTANDOUT®",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22BORNTOSTANDOUT%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Britney Spears",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Britney+Spears%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Burberry",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Burberry%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Bvlgari",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Bvlgari%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "By Kilian",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22By+Kilian%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Byredo",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Byredo%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Calvin Klein",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Calvin+Klein%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Carolina Herrera",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Carolina+Herrera%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Chanel",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Chanel%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Chloé",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Chlo%C3%A9%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Clive Christian",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Clive+Christian%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Comme des Garcons",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Comme+des+Garcons%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Creed",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Creed%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "d'Annam",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22d%27Annam%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Demeter Fragrance",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Demeter+Fragrance%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Dior",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Dior%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Diptyque",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Diptyque%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Dolce&Gabbana",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Dolce+Gabbana%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Elizabeth Arden",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Elizabeth+Arden%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Essential Parfums",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Essential+Parfums%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Etat Libre d'Orange",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Etat+Libre+d%27Orange%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Ex Nihilo",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Ex+Nihilo%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Filippo Sorcinelli",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Filippo+Sorcinelli%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Fragrance World",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Fragrance+World%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "French Avenue",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22French+Avenue%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Giardini Di Toscana",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Giardini+Di+Toscana%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Giorgio Armani",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Giorgio+Armani%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Givenchy",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Givenchy%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Goldfield & Banks Australia",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Goldfield+++Banks+Australia%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Granado",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Granado%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Gucci",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Gucci%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Guerlain",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Guerlain%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Hermès",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Herm%C3%A8s%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Hugo Boss",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Hugo+Boss%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Imaginary Authors",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Imaginary+Authors%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Initio Parfums Prives",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Initio+Parfums+Prives%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Issey Miyake",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Issey+Miyake%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Jean Paul Gaultier",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Jean+Paul+Gaultier%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Jo Malone London",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Jo+Malone+London%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Juliette Has A Gun",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Juliette+Has+A+Gun%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Kayali Fragrances",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Kayali+Fragrances%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Kenzo",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Kenzo%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Khadlaj Perfumes",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Khadlaj+Perfumes%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "L'Artisan Parfumeur",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22L%27Artisan+Parfumeur%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Lalique",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Lalique%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Lancôme",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Lanc%C3%B4me%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Lattafa Perfumes",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Lattafa+Perfumes%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Le Labo",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Le+Labo%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Les Liquides Imaginaires",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Les+Liquides+Imaginaires%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Loewe",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Loewe%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Lorenzo Pazzaglia",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Lorenzo+Pazzaglia%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Louis Vuitton",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Louis+Vuitton%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Lush",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Lush%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Maison Alhambra",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Maison+Alhambra%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Maison Crivelli",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Maison+Crivelli%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Maison Francis Kurkdjian",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Maison+Francis+Kurkdjian%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Maison Martin Margiela",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Maison+Martin+Margiela%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Mancera",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Mancera%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Marc Jacobs",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Marc+Jacobs%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Marc-Antoine Barrois",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Marc-Antoine+Barrois%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Matiere Premiere",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Matiere+Premiere%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Memo Paris",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Memo+Paris%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Mind Games",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Mind+Games%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Montale",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Montale%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Montblanc",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Montblanc%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Moschino",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Moschino%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Mugler",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Mugler%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Narciso Rodriguez",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Narciso+Rodriguez%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Nasomatto",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Nasomatto%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Natura",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Natura%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Nishane",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Nishane%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "O Boticário",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22O+Botic%C3%A1rio%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Orto Parisi",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Orto+Parisi%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Parfums de Marly",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Parfums+de+Marly%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "PARIS CORNER",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22PARIS+CORNER%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Penhaligon's",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Penhaligon%27s%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Phlur",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Phlur%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Prada",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Prada%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Rabanne",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Rabanne%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Ralph Lauren",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Ralph+Lauren%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Rasasi",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Rasasi%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Roja Dove",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Roja+Dove%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Serge Lutens",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Serge+Lutens%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Sol de Janeiro",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Sol+de+Janeiro%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Sospiro Perfumes",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Sospiro+Perfumes%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Swiss Arabian",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Swiss+Arabian%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Tiziana Terenzi",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Tiziana+Terenzi%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Tom Ford",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Tom+Ford%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Valentino",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Valentino%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Van Cleef & Arpels",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Van+Cleef+++Arpels%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Versace",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Versace%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  },
+  {
+    "name": "Victoria's Secret",
+    "candidates": [],
+    "error": "Command '['curl.exe', '-L', '-sS', '--retry', '2', '--max-time', '30', 'https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Victoria%27s+Secret%22+logo&srnamespace=6&srlimit=50&format=json']' returned non-zero exit status 6."
+  }
+]

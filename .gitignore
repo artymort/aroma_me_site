@@ -1,0 +1,29 @@
+# Local data, research, and temporary files.
+New Base Aroma/
+design-concepts/
+tmp_*
+tmp_brand_logo_sources/
+perfumes_full.csv
+scripts/
+tools/
+*.py
+__pycache__/
+.env*
+.codex/
+.agents/
+
+# Preview and font experiments are not part of the public site.
+AGENTS.md
+run_preview.ps1
+font-lab.*
+home-concept-*.html
+home-concepts.*
+mobile-preview.html
+notes-preview-*.js
+assets/font-trials/
+assets/hero-candidates/
+assets/hero-candidates-v2/
+assets/editorial/
+
+# Catalog bottles are staged explicitly from the published catalog index.
+Fragrant_image/
